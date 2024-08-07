@@ -1,0 +1,9 @@
+sites renseignements:
+
+	https://blogrecrutement.bpce.fr/application-bancaire-reussie
+
+
+
+sites logiciels:
+
+	https://online.visual-paradigm.com
