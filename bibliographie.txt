@@ -9,4 +9,8 @@ sites logiciels:
 	https://online.visual-paradigm.com
 
 
+<<<<<<< HEAD
 test initial d1ff comm3
+=======
+test initial d1ff
+>>>>>>> 09aa137 (test cherry)
