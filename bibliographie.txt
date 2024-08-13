@@ -9,4 +9,4 @@ sites logiciels:
 	https://online.visual-paradigm.com
 
 
-test initial d1ff
+test initial d1ff comm2
